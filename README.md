@@ -1,6 +1,6 @@
 # NeetCode Solutions — @ujuwalsingh
 
-> · Repository: `neetcode-submissions`
+· Repository: `neetcode-submissions`
 
 ---
 
